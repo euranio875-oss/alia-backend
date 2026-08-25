@@ -1,0 +1,17 @@
+{
+  "nombreNegocio": "Restaurante Ejemplo",
+  "saludoInicial": "Hola, gracias por llamar a Restaurante Ejemplo, ¿en qué puedo ayudarte?",
+  "telefonoSucursal": "+15559876543",
+  "menu": {
+    "tacos_pastor": "45 pesos",
+    "quesadilla": "35 pesos",
+    "agua_fresca": "25 pesos",
+    "horario": "Lunes a domingo, 9am a 10pm"
+  },
+  "reglas": [
+    "Si el cliente pide hablar con una persona, di [TRANSFERIR] y avisa que lo vas a conectar.",
+    "Si el cliente tiene una queja que no puedes resolver, di [TRANSFERIR].",
+    "Si el cliente está muy molesto o la situación se sale de tu alcance, di [TRANSFERIR].",
+    "Nunca inventes precios ni información que no esté en este menú."
+  ]
+}
