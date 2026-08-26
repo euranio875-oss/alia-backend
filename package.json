@@ -11,7 +11,6 @@
   },
   "dependencies": {
     "express": "^4.19.2",
-    "body-parser": "^1.20.2",
-    "@anthropic-ai/sdk": "^0.32.0"
+    "body-parser": "^1.20.2"
   }
 }
